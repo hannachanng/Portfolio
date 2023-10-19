@@ -112,7 +112,7 @@ a:active {
   --theme-btn: rgb(59, 41, 190);
   --theme-border: rgb(233, 233, 231);
   --theme-cta-bg: rgb(43, 43, 43);
-  --theme-cta-text: rgb(244 242 253);
+  --theme-cta-text: rgb(73 73 73);
   --theme-cta-border:rgb(252, 252, 252);
   --theme-link-hover: rgb(59, 41, 190);
   --theme-footnote: rgb(55, 53, 47);
@@ -128,7 +128,7 @@ a:active {
   --theme-border: rgb(43, 42, 46);
   --theme-cta-bg: rgb(54 54 54);
   --theme-cta-bg-hover: rgb(59, 41, 190);
-  --theme-cta-text: rgb(244 242 253);
+  --theme-cta-text: rgb(73 73 73);
   --theme-cta-border: rgb(20, 20, 20);
   --theme-link-hover: rgb(96, 96, 96);
   --theme-footnote: rgb(96, 96, 96);
@@ -244,7 +244,7 @@ h3.notion-heading {
   color: var(--theme-cta-text) !important;
   border-radius: 5rem !important;
   font-size: 1rem !important;
-  font-weight: 500 !important;
+  font-weight: 300 !important;
   line-height: 1 !important;
   display: inline-block !important;
   -webkit-transition: background 0.3s 0s ease-in-out !important;
